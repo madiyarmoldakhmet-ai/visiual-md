@@ -1,0 +1,11 @@
+{
+  "batch_id": "kyzylorda_ent",
+  "status": "done",
+  "found": 2,
+  "whales": 2,
+  "wa_verified": 1,
+  "with_lpr": 0,
+  "skipped_small": 3,
+  "top3": ["Dostyq School Kyzylorda", "Indigo"],
+  "notes": "Рынок ЕНТ Кызылорды кишит одиночками. Киты: Dostyq (сеть Достық, 28 филиалов, est.2003, телефон из каталога ba.prg.kz) и Indigo (15k IG, WA из taplink подтверждён). Сайт dostyqbilim.kz отдаёт 403. Пропущены: UStudy KZO (3.6k IG, телефон не подтверждён), Eduway, Syr Bilimi. ЛПР не искали — бюджет WebSearch исчерпан."
+}

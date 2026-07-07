@@ -1,0 +1,15 @@
+{
+ "batch_id": "aktau_ent",
+ "status": "done",
+ "found": 3,
+ "whales": 3,
+ "wa_verified": 1,
+ "with_lpr": 1,
+ "skipped_small": 7,
+ "top3": [
+  "Ustudy",
+  "MIA Education",
+  "Uzdik Education"
+ ],
+ "notes": "Рынок ЕНТ в Актау — почти одни одиночки; взяты только сеть Ustudy (филиал в Актау, партнёр НЦТ), MIA Education (лендинг на Актау, wa) и Uzdik Education (2 точки, лицензия; телефон не подтверждён)."
+}

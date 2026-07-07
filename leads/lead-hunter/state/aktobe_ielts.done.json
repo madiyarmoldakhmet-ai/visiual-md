@@ -1,0 +1,15 @@
+{
+ "batch_id": "aktobe_ielts",
+ "status": "done",
+ "found": 7,
+ "whales": 5,
+ "wa_verified": 7,
+ "with_lpr": 2,
+ "skipped_small": 4,
+ "top3": [
+  "Destination — сеть 12 филиалов (Уральск, Аксай, Самара, Актобе)",
+  "Ronalyn English Academy — официальный IDP-центр сдачи IELTS, 2 филиала",
+  "MIA Education — 4000+ студентов, пиксели рекламы, команда, свой сайт"
+ ],
+ "notes": "7 школ с WA-телефонами из скрипта. Мелочь (4): cape_aktobe, happy_english_aktobe, ielts.tc (IG без метрик и линк-страниц), точка франшизы Полиглотики без телефона."
+}

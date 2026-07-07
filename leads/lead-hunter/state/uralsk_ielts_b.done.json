@@ -1,0 +1,9 @@
+{
+ "batch_id": "uralsk_ielts_b",
+ "status": "done",
+ "found": 26,
+ "whales": 3,
+ "wa_verified": 4,
+ "skipped_small": 4,
+ "notes": "26 организаций языковых школ/центров Уральска с телефоном из вывода fetch_extract.py. 8 с собственных сайтов (Business IQ, Study Link, C.L.A.S., Scholarships, Gaudeamus, Destination, Centro Lingvo, Damu Academy — 4 с верифицированным WA). 2 из каталога orgpage (Кенгуру, Дана). 16 из каталога spravker (Language Link, English Time, Andas, Altynsarin, Alfavit, Step by Step, Global, Bolashak, Advance, Центр изучения языков, Soile, Tagylym, Qadam, London, Англичанка, Lovenglish) — телефоны детерминированно извлечены скриптом со страницы каталога, имена/адреса сверены по этой же странице в сессии. StudyON (studyon-uralsk.kz) SSL/404 — номер не извлечён, пропущен. Dostyq/clingvo.com/spr.kz недоступны (DNS). MIA Education и English House отброшены как не-Уральск (Алматы/Астана). skipped_small: частные репетиторы OLX/repetitors.info (физлица на дому). Дедуп смёржит Destination/Business IQ/Study Link с uralsk_ielts."
+}

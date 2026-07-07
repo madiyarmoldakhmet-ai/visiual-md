@@ -1,0 +1,11 @@
+{
+  "batch_id": "jalalabad_ielts",
+  "status": "done",
+  "found": 1,
+  "whales": 1,
+  "wa_verified": 1,
+  "with_lpr": 0,
+  "skipped_small": 4,
+  "top3": ["JEDI (Жалал-Абадский институт образования и усовершенствования)"],
+  "notes": "Малый рынок: почти всё — репетиторы и мелкие центры без сайтов. Бишкекские школы из каталогов отсеяны (Academia, High Time, Oxford English School). gamma.edu.kg (Бишкек+Джалал-Абад) — сайт недоступен 2 раза, телефон не подтверждён."
+}

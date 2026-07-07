@@ -1,0 +1,15 @@
+{
+ "batch_id": "aktobe_other_b",
+ "city": "Актобе",
+ "segment": "other",
+ "status": "done",
+ "found": 40,
+ "wa_verified": 3,
+ "whales": 9,
+ "skipped_small": 6,
+ "websearches": 9,
+ "fetch_runs": 1,
+ "webfetches": 3,
+ "notes": "Собрано 40 организаций Актобе (детские развивающие/ментальная арифметика/IT/робототехника). 5 с собственных источников: ISMA, Smartum, KnewIT (WA), ПК Программист (WA), Robotix (WA). 35 из каталогов spravker.ru/mestam.info/lyubimiigorod.ru — имя сверено WebFetch, телефон/evidence/source_url строго из fetch_extract.py. Ещё ~39 верифицированных кандидатов не вошли из-за лимита 40 строк. Пропущены как не по теме/физлица: кулинарная студия CINNAMON, школа танцев Mega Stars, Lasertag, бутик обуви Zebra, детские праздники Праздник ума, безымянные карточки. +79 не встречались.",
+ "collected_at": "2026-07-06"
+}

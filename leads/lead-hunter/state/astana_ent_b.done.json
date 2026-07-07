@@ -1,0 +1,15 @@
+{
+ "batch_id": "astana_ent_b",
+ "status": "done",
+ "found": 7,
+ "whales": 3,
+ "wa_verified": 0,
+ "with_lpr": 1,
+ "skipped_small": 3,
+ "top3": [
+  "Aiplus",
+  "EasyENT",
+  "Tesla Education"
+ ],
+ "notes": "Третий проход Астана-ЕНТ. Новые Астана-организации: Bambi (детский центр/подготовка к школе), Astana Education Center (eduastana.kz), Alem Study (ул.Аман 8), Bilim Park (Кабанбай Батыра 42). Дубли с чистыми телефонами: EasyENT, Tesla, Aiplus. ИСКЛЮЧЕНЫ по городу: MIRAS ACADEMY (Алматы, подтверждено на /contacts), daryn.online / emtihan.kz / bilim-plus.kz (онлайн, город Астана не подтверждён). Блоки: 2gis отдаёт SPA без телефонов, qazbilim.kz SSL/402, dostyqbilim.kz 403, weproject read timeout. wa_verified=0: все телефоны из site_text/catalog, wa-ссылок в выводе для этих орг не было."
+}

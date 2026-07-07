@@ -1,0 +1,25 @@
+{
+ "batch_id": "aktau_ent_b",
+ "city": "Актау",
+ "country": "KZ",
+ "segment": "ent",
+ "status": "done",
+ "found": 40,
+ "wa_verified": 1,
+ "whales": 1,
+ "skipped_small": 8,
+ "segments": {
+  "ent": 27,
+  "other": 12,
+  "ielts": 1
+ },
+ "sources": {
+  "wa_link": 1,
+  "catalog": 39
+ },
+ "websearch_used": 12,
+ "fetch_extract_runs": 2,
+ "webfetch_used": 1,
+ "notes": "Все телефоны из вывода fetch_extract.py. Осн. источник — spravker.ru (name-phone binding через WebFetch, телефоны сверены со скриптом), + inaktau.kz карточки (Парасат, Uzdik), + MIA (wa.me). qazbilim.kz(402)/abvgdeika.kz(down) недоступны, 2gis отдаёт логин-редирект. Пропущены физлица-репетиторы и офф-тема (охрана труда/стройкурсы: Safety Training Systems, Учкомбинат, ТехСтройСервис, Самрук; Школьник — только городской номер).",
+ "generated_at": "2026-07-06"
+}

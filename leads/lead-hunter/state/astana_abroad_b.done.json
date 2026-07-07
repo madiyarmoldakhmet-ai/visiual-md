@@ -1,0 +1,23 @@
+{
+ "batch_id": "astana_abroad_b",
+ "city": "Астана",
+ "country": "KZ",
+ "segment": "abroad",
+ "status": "done",
+ "found": 17,
+ "wa_verified": 10,
+ "skipped_small": 0,
+ "new_orgs": [
+  "New Generation",
+  "UniStudy",
+  "Global Students",
+  "MentorMe",
+  "Globus Education"
+ ],
+ "dup_with_prior": 12,
+ "websearch_used": 6,
+ "fetch_runs": 2,
+ "fetch_urls": 30,
+ "notes": "17 организаций с верифицированными телефонами из fetch_extract.py; 5 новых (New Generation, UniStudy, Global Students, MentorMe, Globus Education), остальные — дубли прошлых проходов (уберёт дедуп). Недоступные сайты (crystalstudy, gsckz, edustep, kzstudent, studentstudy) пропущены. Мусорные +996 из SVG viewBox отброшены.",
+ "collected_at": "2026-07-06"
+}

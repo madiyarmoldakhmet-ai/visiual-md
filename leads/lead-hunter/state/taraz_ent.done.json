@@ -1,0 +1,14 @@
+{
+ "batch_id": "taraz_ent",
+ "status": "done",
+ "found": 2,
+ "whales": 1,
+ "wa_verified": 1,
+ "with_lpr": 0,
+ "skipped_small": 2,
+ "top3": [
+  "125 UBT School — кит: 21K IG, бренд сети 125 High School (195K), без телефона",
+  "OZAT Education — Тараз, сайт ozat-education.kz, WA-номер подтверждён скриптом"
+ ],
+ "notes": "Рынок ЕНТ Тараза фрагментирован, сетевых мало. UNIDEM и MIA — Алматы, OnStudy/JUZ40/ustudy — онлайн-платформы без физ. присутствия в Таразе, исключены. Dostyq Bilim — 403 (2 попытки). Телефон 125 не добыт: 2GIS JS, taplink/linktr.ee нет, каталог gorodtaraz недоступен."
+}

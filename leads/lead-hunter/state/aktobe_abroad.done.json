@@ -1,0 +1,15 @@
+{
+ "batch_id": "aktobe_abroad",
+ "status": "done",
+ "found": 7,
+ "whales": 5,
+ "wa_verified": 3,
+ "with_lpr": 1,
+ "skipped_small": 4,
+ "top3": [
+  "Educ Way — сеть в 4 городах (Актобе, Атырау, Актау, Шымкент), WA подтверждён",
+  "Bilim Station — Турция с 2019, Meta+Google пиксели, свой сайт, WA подтверждён",
+  "Big Ben Group — 2 филиала в Актобе, ICEF-консультант, найден ЛПР"
+ ],
+ "notes": "Основные источники: spravker и educationagentsguide. Сайты studyinn.kz, alem-education.kz, bigbengroup.ru недоступны. Білім (17K IG, с 2006) записан без телефона — кит, добить taplink отдельной фазой. Bilim Station и Educ Way ориентированы на Турцию."
+}

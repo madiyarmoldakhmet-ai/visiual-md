@@ -1,0 +1,15 @@
+{
+ "batch_id": "aktobe_ent",
+ "status": "done",
+ "found": 4,
+ "whales": 4,
+ "wa_verified": 2,
+ "with_lpr": 0,
+ "skipped_small": 4,
+ "top3": [
+  "Dostyq Bilim — 21 центр в 15 городах, филиал в Актобе",
+  "Aiplus — сеть 4 городов, актюбинский номер подтверждён",
+  "Білім Актобе — 17k IG, работает с 2006"
+ ],
+ "notes": "dostyqbilim.kz отдал 403 (2 попытки) — Dostyq записан без телефона как подтверждённый кит. EDTECH — филиалы только в Алматы, не включён. Мелочь: Знание, Damu Academy, Umit, Keleshek."
+}

@@ -1,0 +1,15 @@
+{
+ "batch_id": "aktobe_ent_b",
+ "status": "done",
+ "found": 33,
+ "whales": 3,
+ "wa_verified": 1,
+ "with_lpr": 0,
+ "skipped_small": 5,
+ "top3": [
+  "Aiplus — сеть 4 городов, актюбинский номер +77085121414 из скрипта",
+  "Знание Актобе (profi-kursy.kz) — лицензия, 10+ лет, собственный сайт, 4 телефона",
+  "MIA Education — сильный преподсостав, wa_link подтверждён"
+ ],
+ "notes": "Третий проход Актобе-ЕНТ, режим объёма. 33 организации. Собственные сайты: profi-kursy.kz (Знание Актобе, tel_link), miaeducation.kz (MIA, wa_link), aiplus.kz (Aktobe data-phone). Массовый объём — из атрибутированных каталогов aktobe.iseducate.ru (5 центров, tel_link landline 7132) и aktobe.spravker.ru (25 центров, site_text mobile): телефоны взяты из вывода fetch_extract.py, привязка имя+адрес подтверждена страницей каталога этой сессии (source_url=каталог, source=tel_link/site_text). Сегменты: языковые→ielts (HiLondon, Тілашар, Диалог, Ми Lion), abroad (Inspire International), IT/детские→other (KIBERone, Smart Kids, ЖулдыStar, Бал-Даурен), остальные ent. ИСКЛЮЧЕНО: Easy ENT/EdooX/EDTECH (онлайн/Алматы, город не Актобе), авто/бух/HSE-курсы и госцентры (Дарын, Орлеу — не B2B-цель), iSana (телефон дублировался с Keleshek — неоднозначно). skipped_small: Бакытгуль Учитель и др. частные репетиторы-физлица (repetitors.info), Наргиз, АС и Я. Блоки: sunrise-aktobe.kz DNS-fail, www.kps.kz ConnectionError (2 попытки), 2gis SPA без телефонов. wa_verified=1 (только MIA)."
+}

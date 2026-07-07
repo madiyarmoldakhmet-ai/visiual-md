@@ -1,0 +1,10 @@
+{
+ "batch_id": "shymkent_ent_b",
+ "status": "done",
+ "found": 19,
+ "wa_verified": 4,
+ "whales": 0,
+ "skipped_small": 2,
+ "notes": "Shymkent ent batch. 19 orgs, phones from fetch_extract.py only. Excluded Fibonacci(Almaty), INTELLECT/pmci(Astana), TODAY(city unconfirmed), easyent(national). Catalog phones via kursy-shymkent.kz and vera.kz; org WA via own sites.",
+ "collected_at": "2026-07-06"
+}

@@ -1,0 +1,22 @@
+{
+ "batch_id": "almaty_ielts_b",
+ "status": "done",
+ "found": 24,
+ "skipped_small": 0,
+ "wa_verified": 16,
+ "whales": 10,
+ "segments": {
+  "ielts": 23,
+  "abroad": 1
+ },
+ "sources": {
+  "wa_link": 16,
+  "tel_link": 7,
+  "site_text": 1
+ },
+ "websearch_used": 10,
+ "fetch_runs": 3,
+ "webfetch_used": 0,
+ "notes": "24 org Alma-Ata yaz.shkoly; vse tel iz fetch_extract; 0 chastnyh; okku/smart-school/study-on/indigo nedostupny",
+ "collected_at": "2026-07-06"
+}

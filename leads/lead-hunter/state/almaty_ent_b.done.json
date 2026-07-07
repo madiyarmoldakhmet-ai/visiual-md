@@ -1,0 +1,17 @@
+{
+ "batch_id": "almaty_ent_b",
+ "status": "done",
+ "found": 15,
+ "wa_verified": 13,
+ "whales": 3,
+ "skipped_small": 3,
+ "segments": {
+  "ent": 13,
+  "other": 2
+ },
+ "websearch_used": 12,
+ "fetch_extract_runs": 3,
+ "webfetch_used": 3,
+ "notes": "Almaty ENT/school-prep centers. Phones only from fetch_extract.py (wa_link/tel_link/site_text). Excluded KG false-positives from daryn katex CSS; excluded hijacked tesla-edu/tesla-education (now casino). dostyqbilim 403, qazbilim SSL, sprintstudy/unikum/themost/cleverkids/newton unreachable or JS-only (no script phone).",
+ "collected_at": "2026-07-06"
+}

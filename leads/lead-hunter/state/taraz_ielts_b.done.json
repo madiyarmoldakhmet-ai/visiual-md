@@ -1,0 +1,19 @@
+{
+  "batch_id": "taraz_ielts_b",
+  "city": "Тараз",
+  "country": "KZ",
+  "segment": "ielts",
+  "status": "partial",
+  "found": 2,
+  "skipped_small": 0,
+  "wa_verified": 2,
+  "whales": 2,
+  "names": ["English House", "Study Link"],
+  "websearch_used": 12,
+  "fetch_runs_used": 3,
+  "webfetch_used": 2,
+  "dropped_no_script_phone": ["Speak English", "Rose Kaplan", "American School", "Interlingua", "Английский на результат", "London city", "Bilim ordasy", "Iq school", "Dostyk", "Progress Educenter", "Fount International", "iSpeak Taraz", "Life guide", "Study On", "MIA"],
+  "out_of_city_dropped": ["SYES / Study-YES (Алматы, филиала в Таразе нет)"],
+  "notes": "gorodtaraz.kz полностью bot-blocked (ConnectionError на всех страницах), rosekaplan1997.kz не резолвится, 2gis/IG/FB под JS/логином — телефоны не извлекались fetch_extract. Валидные скриптом телефоны только у English House (e24.kz/taraz) и Study Link (сеть, подтверждённый филиал в Таразе). MIA отброшен: единственный номер оказался мусором из SVG-path (+996...). SYES отброшен: Алматы, не Тараз.",
+  "collected_at": "2026-07-06"
+}

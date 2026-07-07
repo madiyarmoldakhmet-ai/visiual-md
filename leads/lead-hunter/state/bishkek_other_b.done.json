@@ -1,0 +1,16 @@
+{
+ "batch_id": "bishkek_other_b",
+ "city": "Бишкек",
+ "country": "KG",
+ "segment": "other",
+ "status": "done",
+ "found": 40,
+ "whales": 5,
+ "wa_verified": 5,
+ "skipped_small": 0,
+ "websearches": 10,
+ "fetch_runs": 2,
+ "webfetches": 0,
+ "notes": "40 организаций Бишкека (детское развитие/ментальная арифметика/IT для детей/робототехника/скорочтение). 8 с собственных сайтов/индивидуальных карточек с богатыми сигналами (Чудо-Чадо, KIBERone, Алгоритмика, GeekBrains, IQ007, IT Step, GeekTech, Pro Kids), 32 из каталога urbanplaces.su, где телефон жёстко привязан к бренду через title='Позвонить в NAME'. Все телефоны только из вывода fetch_extract.py. GENOM — Алматы (KZ телефон), пропущен. rost.kg/brain.kg/robosky.kg/roboland.kg/itrunkids.com — недоступны или без телефона (телефон Академии роста и Развивайки взят из каталога urbanplaces). geeks.kg/children.kg/poliglotiki — телефон не извлечён скриптом. Сейтек, Керемет пропущены ради лимита 40 строк. 1 запись (EXCELLENT ENGLISH SCHOOL) отнесена к ielts.",
+ "collected_at": "2026-07-06"
+}

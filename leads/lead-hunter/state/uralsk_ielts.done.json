@@ -1,0 +1,15 @@
+{
+ "batch_id": "uralsk_ielts",
+ "status": "done",
+ "found": 5,
+ "whales": 4,
+ "wa_verified": 2,
+ "with_lpr": 1,
+ "skipped_small": 1,
+ "top3": [
+  "Destination",
+  "Study Link",
+  "Bolashak"
+ ],
+ "notes": "Destination: 10 филиалов, 21k IG, wa.me с Яндекс.Карт, ЛПР Роман Лушаков. Bolashak и Language Link без телефона (киты-сети, добить отдельно). MIA/OnStudy — SEO-агрегаторы, не записаны. Мелочь: C.L.A.S."
+}

@@ -1,0 +1,11 @@
+{
+ "batch_id": "bishkek_ielts_b",
+ "status": "done",
+ "found": 22,
+ "skipped_small": 0,
+ "whales": 0,
+ "wa_verified": 4,
+ "own_site": 10,
+ "notes": "Bishkek language/English schools. 22 orgs w/ phones from fetch_extract. Orgs found w/o extractable phone (skipped, not private): Cambridge School, Академия Роста, Academia Education Center, Poliglotiki. Sites down: adixi.kg, cambridgeschool.kg, 312.kg.",
+ "collected_at": "2026-07-06"
+}

@@ -1,0 +1,17 @@
+{
+ "batch_id": "petropavlovsk_ielts_b",
+ "status": "done",
+ "found": 22,
+ "whales": 1,
+ "wa_verified": 1,
+ "skipped_small": 1,
+ "segments": {
+  "ielts": 22
+ },
+ "sources": {
+  "org_site": 1,
+  "catalog_spravker": 21
+ },
+ "notes": "22 языковые школы/курсы Петропавловска (KZ). Hampton School of Languages — собственный сайт hsl.kz, wa_verified (wa.me/77054120771), IG hampton.school, признаки Cambridge Preparation Centre + 7 лет. Остальные 21 — из каталога petropavlovsk-kz.spravker.ru (школы иностранных языков), все телефоны из вывода fetch_extract.py, каждый номер сверён с названием/адресом карточки spravker этой сессии. +79 нет. Пропущены: анонимный 'Репетитор английского языка' (физлицо, skipped_small); Langberry/Study Inn/Кара-Яз/Study Link/Fortune/HighFive/госцентр обучения языкам — только городские landline (7152) или без номера, скрипт мобильный не извлёк, строки не писал. studylink.kz/petropavlovsk = 404. Учазия website uch.asia.",
+ "collected_at": "2026-07-06"
+}

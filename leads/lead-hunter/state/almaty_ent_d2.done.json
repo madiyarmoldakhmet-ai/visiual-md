@@ -1,0 +1,15 @@
+{
+ "batch_id": "almaty_ent_d2",
+ "status": "done",
+ "found": 4,
+ "whales": 4,
+ "wa_verified": 2,
+ "with_lpr": 1,
+ "skipped_small": 2,
+ "top3": [
+  "JUZ40",
+  "QAZBILIM",
+  "Эрудит"
+ ],
+ "notes": "Новые киты: JUZ40 (274K IG, LMS, Алматы+Астана, ЛПР Мусаева), QAZBILIM (9 отделений, сайт недоступен — без тел.), Эрудит, OnStudy. EasyENT, Sabaq.online, Умскул — не Алматы, исключены. TALAPTAN, iSmart — без сигналов масштаба."
+}

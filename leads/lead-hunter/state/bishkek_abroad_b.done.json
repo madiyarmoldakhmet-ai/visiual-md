@@ -1,0 +1,9 @@
+{
+ "batch_id": "bishkek_abroad_b",
+ "status": "done",
+ "found": 6,
+ "skipped_small": 0,
+ "wa_verified": 3,
+ "whales": 3,
+ "notes": "6 abroad agencies with script-extracted phones; 2gis/IG/edugate yielded no phone (SPA/403/login-gated)."
+}

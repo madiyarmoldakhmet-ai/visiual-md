@@ -1,0 +1,11 @@
+{
+  "batch_id": "astana_ielts",
+  "status": "done",
+  "found": 15,
+  "whales": 13,
+  "wa_verified": 11,
+  "with_lpr": 1,
+  "skipped_small": 0,
+  "top3": ["Step to English", "Oxford", "InterPress International House"],
+  "notes": "15 школ, 13 китов. Сети: Step to English (10 школ), Oxford (8 филиалов), InterPress (5 в Астане), Study Link (11 городов), LTC (4). Greenwich (28k IG) и Generation (19k IG) — киты без телефона, добить отдельной фазой. Все телефоны — из fetch_extract."
+}

@@ -1,0 +1,15 @@
+{
+ "batch_id": "astana_ent",
+ "status": "done",
+ "found": 6,
+ "whales": 6,
+ "wa_verified": 3,
+ "with_lpr": 1,
+ "skipped_small": 4,
+ "top3": [
+  "Aiplus (Айплюс)",
+  "Tesla Education",
+  "INTELLECT (PMCI)"
+ ],
+ "notes": "tesla-edu.kz захвачен казино-спамом, реальный сайт teslaeducation.kz; talan-edu.kz недоступен (2x503). EDTECH, MIA Education и SIGMA оказались алматинскими — в батч Астаны не включены."
+}

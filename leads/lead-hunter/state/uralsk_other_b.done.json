@@ -1,0 +1,10 @@
+{
+ "batch_id": "uralsk_other_b",
+ "status": "done",
+ "found": 8,
+ "whales": 3,
+ "wa_verified": 1,
+ "skipped_small": 3,
+ "notes": "8 образовательных организаций Уральска (детское развитие, ментальная арифметика, скорочтение, IT/программирование, generic учебные центры). Все телефоны скопированы из вывода fetch_extract.py, +79 нет. Сети/whales: IT Step Academy (uralsk.itstep.org, с 1999), IQ007 (680 филиалов, лицензия), Smartum (2 центра). Пифагорка — 5 номеров (wa_verified), orgs.biz. Dana/A-Study/Enterprise/ПК Плюс — из каталога spravka.kz (учебные центры Уральска), phone+name+адрес подтверждены. Источники: собственные сайты (itstep, smartum, iq007, orgs.biz) + каталог uralsk.spravka.kz. Пропущены (skipped_small=3): Smartlandia (номер 7172=Астана, не локальный), безымянный 'центр образования и воспитания' (имя не читается из slug), казахоязычный центр (имя не читается). Off-theme не взяты: автошкола Автомобилист, Zerde ЕНТ-курсы (город не подтверждён), edu-zerde.kz (бухгалтерия, другой город). Недоступны: uniqkids.kz (DNS), companyinform.ru (403), avizinfo.kz (SSL), mgorod.kz (404); HeyGo — филиала в Уральске нет. 2gis.kz — SPA, телефоны не отдаёт. IG-only центры (erkem_ai_center_uralsk, studylink_uralsk) не парсятся скриптом.",
+ "collected_at": "2026-07-06"
+}

@@ -1,0 +1,10 @@
+{
+ "batch_id": "astana_other_b",
+ "status": "done",
+ "found": 15,
+ "whales": 6,
+ "wa_verified": 9,
+ "skipped_small": 0,
+ "notes": "15 образовательных организаций Астаны (детское развитие, ментальная арифметика, IT/программирование, робототехника, скорочтение). Телефоны только из fetch_extract.py. Пропущены: Vseznaika (Алматы), Coddy/ispeedreader (телефон не извлечён), method.kz/impactacademies.kz/uniqkids.kz/bramt.kz/chitaiastana.kz/robocode.kz/cosmokids.kz/sanabilim.kz/robotek.club (сайт недоступен).",
+ "collected_at": "2026-07-06"
+}

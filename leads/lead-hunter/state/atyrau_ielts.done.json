@@ -1,0 +1,15 @@
+{
+  "batch_id": "atyrau_ielts",
+  "status": "done",
+  "found": 8,
+  "whales": 7,
+  "wa_verified": 4,
+  "with_lpr": 2,
+  "skipped_small": 3,
+  "top3": [
+    "Study Link — 19 филиалов по Казахстану, с 1997, WA verified",
+    "Caspian Training Group — центры Алматы+Атырау, 20+ лет, авторизованный центр British Council, ЛПР найден",
+    "Language Link Атырау — международная сеть с 1975, 17k IG, Cambridge-центр"
+  ],
+  "notes": "8 строк: 4 с верифицированным WA (CTgroup, Study Link, PREP, UP2U); 4 кита без телефона/WA на дофинализацию (English Club 17k IG, Money English и Sunrise по 2 филиала из 2ГИС, Language Link только tel). Пропущены вне скоупа: MIA Education (Алматы), onstudy.kz (онлайн-агрегатор), LANGO (сайт мёртв), RTG Tilmash/Nomad School (рег.партнёры BC/IDP, нет признаков кита)."
+}

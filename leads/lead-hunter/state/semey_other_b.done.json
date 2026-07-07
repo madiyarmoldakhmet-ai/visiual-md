@@ -1,0 +1,22 @@
+{
+ "batch_id": "semey_other_b",
+ "city": "Семей",
+ "country": "KZ",
+ "segment": "other",
+ "status": "done",
+ "found": 27,
+ "whales": 0,
+ "wa_verified": 0,
+ "skipped_small": 0,
+ "no_phone_skipped": [
+  "Жас Талант",
+  "CODDY Semey",
+  "STEP IT Academy (ITStep) Semey"
+ ],
+ "websearch_used": 12,
+ "fetch_extract_runs": 2,
+ "fetch_extract_urls": 30,
+ "webfetch_used": 1,
+ "notes": "Источник — spravker.ru карточки организаций Семея; телефоны из fetch_extract.py (site_text). CODDY и ITStep пропущены (номер не извлечён скриптом). website/instagram null (собственный домен/IG не подтверждён скриптом).",
+ "collected_at": "2026-07-06"
+}

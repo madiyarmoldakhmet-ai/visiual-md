@@ -1,0 +1,19 @@
+{
+ "batch_id": "bishkek_ent_b",
+ "city": "Бишкек",
+ "country": "KG",
+ "theme": "ent",
+ "status": "done",
+ "found": 15,
+ "wa_verified": 10,
+ "skipped_small": 3,
+ "segments": {
+  "ent": 9,
+  "other": 2,
+  "ielts": 4
+ },
+ "websearch_used": 12,
+ "fetch_runs": 3,
+ "notes": "Bishkek KG: 15 orgs with phones from fetch_extract. Segments ent/ielts/other. All +996 phones from script output.",
+ "collected_at": "2026-07-06"
+}

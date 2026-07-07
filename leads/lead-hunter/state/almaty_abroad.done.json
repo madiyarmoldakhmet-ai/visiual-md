@@ -1,0 +1,15 @@
+{
+ "batch_id": "almaty_abroad",
+ "status": "done",
+ "found": 14,
+ "whales": 12,
+ "wa_verified": 9,
+ "with_lpr": 2,
+ "skipped_small": 0,
+ "top3": [
+  "New Generation (ngec.kz)",
+  "MentorMe",
+  "A Level"
+ ],
+ "notes": "14 центров, все телефоны из fetch_extract. Сети: M&K, Globus (3 города), Be Global, A Level, NGEC. IG-подписчики из SERP не подтвердились — везде null. ЛПР: NGEC и MentorMe."
+}

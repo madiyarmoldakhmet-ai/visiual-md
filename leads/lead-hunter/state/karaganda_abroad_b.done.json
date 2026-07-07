@@ -1,0 +1,15 @@
+{
+  "batch_id": "karaganda_abroad_b",
+  "status": "done",
+  "found": 24,
+  "whales": 2,
+  "wa_verified": 1,
+  "with_lpr": 0,
+  "skipped_small": 3,
+  "top3": [
+    "Scholarships",
+    "EDUGRAD",
+    "Бiлiм-EducationUSA Karaganda"
+  ],
+  "notes": "Караганда abroad: 24 организации с телефоном из вывода скрипта. 2 с собственным сайтом (edugrad.kz, scholarships.kz), 22 из каталога spravker (рубрика обучение за рубежом, серверный HTML; имена/адреса сопоставлены WebFetch той же страницы). 2gis captcha-blocked, GSC gsckz.com недоступен, ni-hao SSL-ошибка. Пропущено: dreamway.kz (танц-студия, оффтоп), columb-us.kz и workandtravelus.kz (офисы Петропавловск/Алматы). Листинги без телефона в скрипте (Кристалл, Multi Linguist, Capital Education, Sta Kazakhstan и др.) не взяты. Дубли Interpress/Edugrad/Scholarships уберёт дедуп."
+}

@@ -1,0 +1,22 @@
+{
+  "batch_id": "almaty_other_b",
+  "city": "Алматы",
+  "country": "KZ",
+  "segment": "other",
+  "status": "done",
+  "found": 17,
+  "wa_verified": 8,
+  "whales": 5,
+  "skipped_small": 0,
+  "no_phone_or_dead": 11,
+  "unique_phones": 17,
+  "raw_file": "raw/almaty_other_b.jsonl",
+  "budget_used": {"websearch": 7, "fetch_extract_runs": 2, "urls_fetched": 30, "webfetch": 0},
+  "organizations": [
+    "Smartum", "ВСЕЗНАЙКА", "IT STEP (ШАГ)", "KnewIT", "Boshon Robotics",
+    "Robot.kz", "RobotX", "Leas", "Bolashak School", "GENOM", "IKIDS",
+    "Wonderland", "Bala Land", "Bala Like", "Монтессори-класс", "Funcode", "Advance"
+  ],
+  "notes": "17 организаций с телефонами из fetch_extract. Пропущены без добываемого телефона/недоступны: Codeway, Kinderhouse, Damina, ispeedreader, roboticsacademy (placeholder-номер), ISMA (timeout), alma.kitestart, bramt, montessorialmaty.com, kinderschool, indigo-club (parked). decode.kz оказался казино-сайтом. Частных лиц-физлиц не встретилось (skipped_small=0). Все телефоны KZ (+77), российские +79 отсутствуют.",
+  "collected_at": "2026-07-06"
+}

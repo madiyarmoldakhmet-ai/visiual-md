@@ -1,0 +1,18 @@
+{
+ "batch_id": "petropavlovsk_ent_b",
+ "status": "done",
+ "found": 36,
+ "wa_verified": 3,
+ "whales": 1,
+ "skipped_small": 6,
+ "segments": {
+  "ent": 8,
+  "other": 28
+ },
+ "sources": {
+  "org_site": 4,
+  "catalog_spravker": 32
+ },
+ "notes": "Собрано 36 организаций Петропавловска (KZ). 4 с собственным сайтом (Учазия, Умники и умницы, MIA, NotaBene) + 32 из каталога spravker (детские развивающие/подготовка к школе). Все телефоны из вывода fetch_extract.py (run1 org-сайты, run2 spravker). Каждый номер сверен с именем/адресом из карточки spravker. +79 нет. edu-zerde.kz/USTUDY пропущены (город не подтверждён / нет номера). Развивающие центры помечены segment=other, репетитор/подготовка к школе/ЕНТ — ent.",
+ "collected_at": "2026-07-06"
+}

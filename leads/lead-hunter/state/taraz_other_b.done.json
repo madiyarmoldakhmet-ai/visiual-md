@@ -1,0 +1,10 @@
+{
+ "batch_id": "taraz_other_b",
+ "status": "done",
+ "found": 40,
+ "whales": 5,
+ "wa_verified": 1,
+ "skipped_small": 0,
+ "notes": "40 образовательных организаций Тараза (детское развитие, ментальная арифметика, IT/программирование, робототехника, скорочтение, монтессори, логопед). Все телефоны скопированы из вывода fetch_extract.py и сверены с whitelist (0 вне списка). Источники: собственные сайты (KnewIT, Smartum), bebeshka (Zerde), каталог spravker.ru (dev + detsko-yunosheskie). Пропущены без извлекаемого мобильного (только 7262-стационар или 'нет номера'): Fastrackids, Robo Park(Казыбек), Центр раннего развития, Детский клуб Талант, Лапушка, Центр внешкольной работы, Элiппе, New days, Лидер. Из-за лимита 40 строк не вошли off-theme (музыкальные/танцевальные/автошкола/generic учебные: Інжу, Ай-Жулдыз, Ustudy140, Damy education, Нурай, Daryn study, Автошкола, Romanovoy, Умничка, Kz.Element, Аль-Таир, Dostyq, Smart Education Center, Ustudy Ubt School). Bala Land — адрес Алматы, пропущен; Young Engineers Subotica (+381) пропущен. gorodtaraz.kz/spr.kz/kps.kz/zhambylzhastary.kz недоступны.",
+ "collected_at": "2026-07-06"
+}

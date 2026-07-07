@@ -1,0 +1,14 @@
+{
+ "batch_id": "bishkek_ielts_d2",
+ "status": "done",
+ "found": 2,
+ "whales": 2,
+ "wa_verified": 1,
+ "with_lpr": 0,
+ "skipped_small": 0,
+ "top3": [
+  "International Language House (ILH)",
+  "Полиглотики"
+ ],
+ "notes": "Новые киты: ILH (english.on.kg, лицензия, 10+ лет, google_tag, wa+3 доп.номера) и сеть Полиглотики (филиалы, LMS, без телефона на сайте). Adixi.kg недоступен (000, 3 попытки) — пропущен. Oxford English School (oes.kg) = исключённый Oxford. Остальная выдача — уже в базе или каталоги."
+}

@@ -1,0 +1,15 @@
+{
+  "batch_id": "karaganda_ielts",
+  "status": "done",
+  "found": 10,
+  "whales": 9,
+  "wa_verified": 10,
+  "with_lpr": 0,
+  "skipped_small": 3,
+  "top3": [
+    "Step to English — 10 школ в 7 городах КЗ и Праге, 15000+ выпускников",
+    "InterPress IH Karaganda — аккредитованный центр IDP IELTS, 2 филиала, 14K IG",
+    "New York English School — 5 филиалов в Караганде, представитель British Council"
+  ],
+  "notes": "10 школ, все телефоны из wa-ссылок скрипта. 9 китов. StudyOn и GLS — сайты недоступны; Dreamway 8.2K IG без подтверждённого телефона — не записаны. ЛПР не найден (2 поиска)."
+}

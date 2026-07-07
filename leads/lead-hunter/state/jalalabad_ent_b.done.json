@@ -1,0 +1,14 @@
+{
+  "batch_id": "jalalabad_ent_b",
+  "status": "done",
+  "found": 2,
+  "whales": 1,
+  "wa_verified": 2,
+  "with_lpr": 0,
+  "skipped_small": 4,
+  "top3": [
+    "Секом (сеть, филиал Жалал-Абад)",
+    "JEDI (Жалал-Абадский институт образования)"
+  ],
+  "notes": "Очень малый рынок города. Подтверждены 2 организации с телефоном из скрипта: сеть Секом (филиал secom_jalalabad, ОРТ+языки, wa) и JEDI (собственный сайт, wa, email jedi-jalalabat). JEDI дублирует прошлый проход ielts — уйдёт в дедуп. Каталоги orgpage/salexy/lalafo по Джалал-Абаду подмешивают бишкекские центры (Academia, High Time, Эклектика, Билим Экспорт, Highlight) и частных репетиторов — отсеяны. 2gis JS-рендер без телефонов, cenotavr 403. IG-центры annur__kg, nur_bilim_official, dialog_center.jld — телефон скриптом не извлекается (логин-стена). mektep24 — областные гос.школы, не профиль города."
+}

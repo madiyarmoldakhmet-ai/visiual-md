@@ -1,0 +1,27 @@
+# Зависимости
+node_modules/
+package-lock.json
+yarn.lock
+
+# Рантайм-данные (генерируются при работе системы, не код)
+data/status/
+data/logs/
+reports/
+sessions/
+*.log
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Тестовые артефакты
+*_test_tmp/
+_test_tmp/
+data/_*_test*.js

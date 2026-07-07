@@ -1,0 +1,24 @@
+{
+ "batch_id": "shymkent_abroad_b",
+ "city": "Шымкент",
+ "country": "KZ",
+ "segment": "abroad",
+ "status": "done",
+ "found": 22,
+ "skipped_small": 0,
+ "wa_verified": 1,
+ "with_website": 2,
+ "by_segment": {
+  "abroad": 19,
+  "ielts": 2,
+  "other": 1
+ },
+ "raw_file": "raw/shymkent_abroad_b.jsonl",
+ "sources": [
+  "shymkent.spravker.ru/obuchenie-za-rubezhom",
+  "studylink-shym.kz",
+  "mestam.info"
+ ],
+ "notes": "spravker Shymkent catalog mapped name->phone; phones copied from fetch_extract output; national chains (Excourse/BeGlobal/UniStudy) excluded (non-Shymkent HQ numbers); crystalstudy.com phones were SVG false-positives, discarded; Maximum/Maryadi/StudyInn-Диваева had only 7252 landlines not extracted by script.",
+ "collected_at": "2026-07-06"
+}

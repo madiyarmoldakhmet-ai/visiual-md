@@ -1,0 +1,14 @@
+{
+ "batch_id": "aktobe_abroad_b",
+ "status": "done",
+ "found": 9,
+ "whales": 1,
+ "wa_verified": 0,
+ "skipped_small": 0,
+ "top3": [
+  "Education Industry — сеть офисов по РК (вкл. Актобе), 10 лет, 5000+ студентов",
+  "Best Education — Актобе, ул. Бр. Жубановых 293Г (подтв. spravker+reginforms)",
+  "Oxford Vision — Актобе, просп. Абилкайыр Хана 21Б (новый, spravker)"
+ ],
+ "notes": "Ниша abroad в Актобе узкая и сильно пересекается с прошлым проходом aktobe_abroad. 8 организаций с адресом в Актобе подтверждены каталогом spravker (имена сверены WebFetch этой сессии), телефоны — из fetch_extract. Education Industry добавлен по сниппету о 5 офисах вкл. Актобе. Исключены как не-Актобе (Алматы/Атырау/Актау): Excourse, Turkey EDU (Magnat), world-citizen, globalstudents, truston, kta — у всех есть валидные KZ-телефоны, но офисы вне Актобе. Дубли с aktobe_abroad уберёт дедуп. WebSearch=12, fetch_extract=2 запуска, WebFetch=4 — бюджет исчерпан."
+}

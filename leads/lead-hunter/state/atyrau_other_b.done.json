@@ -1,0 +1,20 @@
+{
+  "batch_id": "atyrau_other_b",
+  "city": "Атырау",
+  "country": "KZ",
+  "segment": "other",
+  "status": "done",
+  "found": 40,
+  "wa_verified": 2,
+  "whales": 6,
+  "skipped_small": 0,
+  "websearch_used": 10,
+  "fetch_runs": 3,
+  "webfetch_used": 1,
+  "sources": {
+    "spravker_catalog": 38,
+    "own_site_wa": 2
+  },
+  "notes": "40 организаций Атырау (детские развивающие/IT/ментальная арифметика/робототехника/скорочтение). Все телефоны скопированы из вывода fetch_extract.py: каталог atyrau.spravker.ru (38, source=catalog) + собственные сайты с wa.me — KIBERone и Montessori School (2, wa_verified). 2ГИС отдавал анти-бот заглушку без телефонов; cmgkids.kz и bestkids.kz вернули HTTP 402. Исключены дубли брендов (A-Pro/Lets/Znamus/Полиглотики) и оффтоп (боевые искусства, шахматы). Частных лиц на дому в выдаче не было.",
+  "collected_at": "2026-07-06"
+}

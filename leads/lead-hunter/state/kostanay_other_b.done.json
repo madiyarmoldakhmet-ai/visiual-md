@@ -1,0 +1,10 @@
+{
+  "batch_id": "kostanay_other_b",
+  "status": "done",
+  "found": 40,
+  "skipped_small": 6,
+  "whales": 2,
+  "wa_verified": 1,
+  "notes": "Костанай other: детские развивающие центры, ментальная арифметика, скорочтение (IQ007), IT/кодинг (Step to English). Телефоны из fetch_extract.py: spravker-каталог (site_text) сопоставлен с названиями через WebFetch, ISMA — с ismakz.com, Step — wa_link. Пропущены гос/без-мобильного: КГУ Дворовый клуб, Региональный центр психподдержки, Худшкола Русина, Ак ерке, Романтик, IQ007 Л.Толстого(800).",
+  "collected_at": "2026-07-06"
+}

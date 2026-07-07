@@ -1,0 +1,11 @@
+{
+  "batch_id": "kyzylorda_ent_b",
+  "status": "done",
+  "found": 2,
+  "whales": 1,
+  "wa_verified": 2,
+  "with_lpr": 0,
+  "skipped_small": 3,
+  "top3": ["Indigo", "MIA Education"],
+  "notes": "Рынок ЕНТ Кызылорды почти весь — частные репетиторы-одиночки. Взяты: Indigo (taplink wa +77081346607, учебный центр КЗО, скрипт подтвердил) и MIA Education (wa +77077650000, отдельная страница подготовки к ЕНТ в Кызылорде, HQ Алматы). Не взяты по железным правилам: Dostyq/dostyqbilim.kz (403 обе попытки, номер этой сессии не добыт), onstudy.kz и easyent.kz (Алматы, национальные онлайн-платформы), talaptan.kz (проверен WebFetch — Алматы). IG-only без taplink/сайта: ustudy_kzo, first.education.kzo, mrt.center.kzo (taplink не существует, редирект на taplink.ru; instagram под логином — телефон не добыт). zoon.kz блокирует (103). Бюджет исчерпан: 12 WebSearch, 4 WebFetch, 3 запуска fetch_extract."
+}

@@ -1,0 +1,15 @@
+{
+ "batch_id": "almaty_abroad_b",
+ "status": "done",
+ "found": 18,
+ "whales": 12,
+ "wa_verified": 12,
+ "with_lpr": 0,
+ "skipped_small": 0,
+ "top3": [
+  "Globus Education",
+  "M&K",
+  "A&T Smart Study"
+ ],
+ "notes": "18 организаций (Алматы, abroad), все телефоны из fetch_extract. 17 abroad + 1 ielts (InterPress). wa_verified=12. Мёртвые/припаркованные домены пропущены: euroschool.kz (парковка PS.kz), china4study/anglokazakh/worldstudy/axisedu (не отвечают), sansat/studyin (JS, номер не извлёкся). IG-подписчики и ЛПР не подтверждены — null."
+}

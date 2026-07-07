@@ -1,0 +1,15 @@
+{
+ "batch_id": "kyzylorda_ielts_b",
+ "status": "done",
+ "found": 19,
+ "whales": 1,
+ "wa_verified": 2,
+ "skipped_small": 10,
+ "by_segment": {
+  "ielts": 6,
+  "ent": 11,
+  "other": 2
+ },
+ "notes": "Own sites: Study Link, MIA Education, Scholarships. 16 orgs from spravbiz Kyzylorda uchebnye-tsentry catalog (name->phone mapping verified against WebFetch order). Skipped: private tutors (Preply/Buki/Kaspi/profi), IG-only (ielts_qyzylorda, speak_english_kzo), no-phone (Poliglotiki, Steppelens down, Mr.Alan, TALENT, Divine Tutors, Pearlmond), landline-only not extracted (Cmg Kids, Otan), govt academy.",
+ "collected_at": "2026-07-06"
+}

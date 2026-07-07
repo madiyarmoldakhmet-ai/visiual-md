@@ -1,0 +1,15 @@
+{
+ "batch_id": "bishkek_abroad",
+ "status": "done",
+ "found": 5,
+ "whales": 5,
+ "wa_verified": 2,
+ "with_lpr": 1,
+ "skipped_small": 1,
+ "top3": [
+  "Ask Consulting — 149K IG, 7 филиалов в 4 странах, ЛПР найден",
+  "Logos Group — офисы Бишкек и Алматы, с 2008, meta_pixel",
+  "Kyrgyz Concept — 34 года на рынке, education-отдел, wa.me"
+ ],
+ "notes": "5 центров, все с телефонами из скрипта. Пропущены: Мандэй (сайт недоступен, мини-группы), AUCA (университет, не целевой), казахстанские .kz-агентства из выдачи. Logos School — бренд Logos Group, не дублировался."
+}

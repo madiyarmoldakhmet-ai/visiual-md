@@ -1,0 +1,14 @@
+{
+ "batch_id": "kyzylorda_abroad",
+ "status": "done",
+ "found": 2,
+ "whales": 1,
+ "wa_verified": 2,
+ "skipped_small": 1,
+ "with_lpr": 0,
+ "top3": [
+  "IDP IELTS Kazakhstan",
+  "Onstudy"
+ ],
+ "notes": "В Кызылорде почти нет abroad-агентств с сайтами: выдача даёт Алматы/Астану. Записаны IDP IELTS Kazakhstan (сеть 7 городов, тестирование в Кызылорде) и Onstudy (лендинг на город, wa.me). Steppelens недоступен (http_523, 2 попытки). «Каникулы London» — мелочь без сайта/IG."
+}

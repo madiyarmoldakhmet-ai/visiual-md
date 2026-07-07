@@ -1,0 +1,17 @@
+{
+ "batch_id": "aktau_other_b",
+ "status": "done",
+ "found": 40,
+ "skipped_small": 3,
+ "whales": 4,
+ "wa_verified": 3,
+ "segments": {
+  "other": 38,
+  "ielts": 2
+ },
+ "websearches": 11,
+ "fetch_runs": 3,
+ "webfetches": 2,
+ "notes": "Актау детские развивающие/IT/арифметика/скорочтение/робототехника. Телефоны только из fetch_extract (own-site wa/tel + server-rendered каталоги aktau.spravker.ru и inaktau.kz с адресной привязкой имя-телефон). ISMA — нет филиала в Актау (пропущен). Пропущены: Дворец школьников и школа Школьник (гос.), Роботек (Мунайлинский р-н, вне города). 2gis JS-страницы не парсятся requests.",
+ "collected_at": "2026-07-06"
+}

@@ -1,0 +1,15 @@
+{
+ "batch_id": "astana_abroad_d2",
+ "status": "done",
+ "found": 4,
+ "whales": 3,
+ "wa_verified": 3,
+ "with_lpr": 0,
+ "skipped_small": 0,
+ "top3": [
+  "Chinaland",
+  "Nihao",
+  "Infinity"
+ ],
+ "notes": "D2 pass: 4 new Astana abroad centers not in base. Whales: Chinaland (сеть Астана+Алматы, с 2014, 2000+ студентов, meta_pixel), Nihao (British Council, с 2011), Infinity (с 2008). NEO Centre recorded (SAT/IELTS/NUFYP, non-whale). Get-Edu excluded=Almaty-only; Dream High/Nobilis unreachable; Kangnam IG-only unconfirmed."
+}

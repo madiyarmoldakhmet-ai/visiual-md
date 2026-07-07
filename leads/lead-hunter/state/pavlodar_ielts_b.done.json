@@ -1,0 +1,14 @@
+{
+ "batch_id": "pavlodar_ielts_b",
+ "city": "Павлодар",
+ "country": "KZ",
+ "segment": "ielts",
+ "status": "done",
+ "found": 21,
+ "wa_verified": 9,
+ "whales": 2,
+ "skipped_small": 3,
+ "raw_file": "raw/pavlodar_ielts_b.jsonl",
+ "collected_at": "2026-07-06",
+ "notes": "21 языковых центров Павлодара с телефонами из fetch_extract (12 брендовых сайтов/orgs.biz-карточек + 9 из jsprav-каталога). Пропущены переводческие бюро (Intertext, Eurasia), детские развивающие центры (Лучики, Эрудит Kids, Openkids), безымянный tilda-лендинг и частные репетиторы. Avatar School пропущен: сайт отдаёт HTTP 402."
+}

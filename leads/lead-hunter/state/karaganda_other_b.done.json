@@ -1,0 +1,21 @@
+{
+  "batch_id": "karaganda_other_b",
+  "city": "Караганда",
+  "country": "KZ",
+  "segment": "other",
+  "status": "done",
+  "found": 39,
+  "unique_phones": 39,
+  "wa_verified": 2,
+  "whales": 6,
+  "skipped_small": 6,
+  "with_website": 5,
+  "raw_file": "raw/karaganda_other_b.jsonl",
+  "sources_used": {
+    "websearch": 8,
+    "fetch_extract_runs": 2,
+    "webfetch": 2
+  },
+  "notes": "Детские развивающие/IT/арифметика/робототехника/скорочтение Караганды. 5 организаций с собственных сайтов (Advance, Академия ШАГ/ITSTEP, KIBERone, KnewIT, ISMA), 34 — из каталога spravker.ru (имя+телефон подтверждены страницей, телефон скопирован из вывода fetch_extract.py). Все номера KZ +77, российские +79 отфильтрованы. Пропущены развлекательные (Warpoint, Partyum, kids_park), центры без мобильного телефона (Радуга, Ума палата) и неоднозначные без бренда.",
+  "collected_at": "2026-07-06"
+}

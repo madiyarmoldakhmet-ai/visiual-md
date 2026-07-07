@@ -1,0 +1,18 @@
+{
+ "batch_id": "atyrau_ent_b",
+ "status": "done",
+ "found": 19,
+ "skipped_small": 4,
+ "whales": 1,
+ "wa_verified": 4,
+ "notes": "Atyrau ent batch: 5 own-site orgs (MIA,Kainar,PROGRESS,A5,Teren Oi) + 14 catalog orgs from atyrau.spravker.ru; phones all from fetch_extract. Dropped Fibonacci and Talaptan (Almaty, not Atyrau).",
+ "segments": {
+  "ent": 11,
+  "other": 5,
+  "ielts": 3
+ },
+ "websearch_used": 11,
+ "fetch_runs": 2,
+ "webfetch_used": 4,
+ "collected_at": "2026-07-06"
+}

@@ -1,0 +1,15 @@
+{
+ "batch_id": "almaty_ielts_d2",
+ "status": "done",
+ "found": 7,
+ "whales": 4,
+ "wa_verified": 3,
+ "with_lpr": 1,
+ "skipped_small": 3,
+ "top3": [
+  "Smart School by Tamara Ilyassova (64.9k IG)",
+  "Wall Street English Kazakhstan (сеть 450+ центров)",
+  "Telc (филиалы Алматы+Астана)"
+ ],
+ "notes": "2-й проход: 4 кита. Smart School (64.9k IG, ЛПР Тамара Ильясова) и Wall Street English (глобальная сеть) без телефона — сайты 402/JS, добить фазой WA. Telc — сеть Алматы+Астана. OKKU недоступен (2 попытки). Дубли 1-го прохода пропущены."
+}

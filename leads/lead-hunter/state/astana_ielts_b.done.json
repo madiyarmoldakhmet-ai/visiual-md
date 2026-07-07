@@ -1,0 +1,9 @@
+{
+ "batch_id": "astana_ielts_b",
+ "status": "done",
+ "found": 17,
+ "skipped_small": 3,
+ "wa_verified": 11,
+ "whales": 6,
+ "notes": "17 Astana language/IELTS orgs, phones from fetch_extract.py (wa/tel/site_text). Scholarships.kz excluded (only Karaganda address); LTC site timed out x2; Alliance Francaise had no Astana-specific phone."
+}

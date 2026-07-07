@@ -1,0 +1,15 @@
+{
+ "batch_id": "almaty_ent",
+ "status": "done",
+ "found": 10,
+ "whales": 10,
+ "wa_verified": 7,
+ "with_lpr": 1,
+ "skipped_small": 2,
+ "top3": [
+  "AIPLUS",
+  "Tesla Education",
+  "UNIDEM"
+ ],
+ "notes": "8 центров с контактами из скрипта, 2 сети (Newton, ZStarKZ) без телефона — добить отдельной фазой. Домены tesla-education.kz/tesla-edu.kz угнаны казино, живой — teslaeducation.kz. Miras Academy (город не Алматы) и istudy.kz (8.6k IG, без контактов) исключены."
+}

@@ -1,0 +1,15 @@
+{
+ "batch_id": "almaty_abroad_d2",
+ "status": "done",
+ "found": 8,
+ "whales": 7,
+ "wa_verified": 6,
+ "with_lpr": 1,
+ "skipped_small": 4,
+ "top3": [
+  "UChina — филиалы в 5 странах, 3000+ студентов в Китае",
+  "Chinaland — 2000+ грантов, офиц. представитель SCUT, ЛПР: Мусин Расул",
+  "Study IN — 2000+ студентов, 25 стран, ICEF/British Council"
+ ],
+ "notes": "Второй проход: 8 новых, фокус Китай/NU. UChina и YourChina — один оператор (общий WhatsApp), одна строка. PandaEdu (домен припаркован), EdAccess, SatStudy — сайты недоступны. Global Dialog (RU) не верифицирован, пропущен."
+}

@@ -1,0 +1,15 @@
+{
+  "batch_id": "astana_ielts_d2",
+  "status": "done",
+  "found": 6,
+  "whales": 5,
+  "wa_verified": 2,
+  "with_lpr": 0,
+  "skipped_small": 7,
+  "top3": [
+    "Gryphon School — 63K подписчиков IG",
+    "ELC — 31 968 выпускников, филиалы в Астане и Алматы",
+    "Telc — сеть Алматы+Астана, своя онлайн-платформа"
+  ],
+  "notes": "2-й проход: 6 новых (ELC, Gryphon 63K IG, Telc, Truston, AngloClub, KAZielts). Gryphon без телефона (сайт 503). Пропущены: OLS (1.1K IG), English.kz/Setters (сайты мертвы), A Class, Albus и др. без подтверждённого масштаба."
+}

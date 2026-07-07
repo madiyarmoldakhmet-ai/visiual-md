@@ -1,0 +1,13 @@
+{
+ "batch_id": "kyzylorda_other_b",
+ "city": "Кызылорда",
+ "country": "KZ",
+ "segment": "other",
+ "status": "done",
+ "found": 39,
+ "wa_verified": 1,
+ "whales": 0,
+ "skipped_small": 0,
+ "notes": "Детские развивающие/IT/ментальная арифметика центры Кызылорды. Телефоны из fetch_extract (spravker-каталог + knewit whatsapp). 2gis/poliglotiki JS без телефонов, ISMA без филиала в Кызылорде, cenotavr 403.",
+ "collected_at": "2026-07-06"
+}

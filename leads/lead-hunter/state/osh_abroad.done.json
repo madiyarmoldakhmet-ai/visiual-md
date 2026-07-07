@@ -1,0 +1,14 @@
+{
+ "batch_id": "osh_abroad",
+ "status": "done",
+ "found": 2,
+ "whales": 2,
+ "wa_verified": 1,
+ "with_lpr": 0,
+ "skipped_small": 3,
+ "top3": [
+  "Kyrgyz Concept",
+  "Kalpak English Academy"
+ ],
+ "notes": "Ош беден на abroad-сегмент. Киты: Kyrgyz Concept (офис в Оше, 36 лет, wa verified) и Kalpak English Academy (10 филиалов, 2 в Оше, телефона нет — добить rescue). Study fly и Logos (Ош, 2gis) не верифицированы: нет сайтов, JS-каталог, бюджет исчерпан."
+}

@@ -1,0 +1,15 @@
+{
+ "batch_id": "astana_abroad",
+ "status": "done",
+ "found": 10,
+ "whales": 10,
+ "wa_verified": 8,
+ "with_lpr": 1,
+ "skipped_small": 3,
+ "top3": [
+  "GSC Study",
+  "A Level",
+  "M&K"
+ ],
+ "notes": "10 китов с телефонами из скрипта; 8 с wa.me. Пропущены без подтверждённого масштаба/телефона: smartestprep, aidoeducation, ecinfinity; nobilis.academy отдал 402, ctgroup без привязки к Астане."
+}

@@ -1,0 +1,15 @@
+{
+ "batch_id": "osh_ielts_b",
+ "status": "done",
+ "found": 17,
+ "whales": 1,
+ "wa_verified": 0,
+ "skipped_small": 0,
+ "with_lpr": 0,
+ "top3": [
+  "Repetitor.osh — 5 филиалов, 30 000+ учеников, телефон найден (+996555912808)",
+  "Гений — мультикурсовой центр (языки/ОРТ/компьютер), 2 номера + WhatsApp",
+  "Taylor Institute — институт западного образования, IG taylor_institute_osh"
+ ],
+ "notes": "Объём получен через каталог englishhere.ru (статичные карточки с tel:-номерами). Свои домены (kairososh.kg, ucreate.kg) не резолвятся; 2gis.kg — JS-шелл без телефонов. 17 организаций с подтверждёнными +996 из вывода скрипта. wa_link=null у всех: WhatsApp-номера в каталоге даны текстом (site_text), а не wa.me-ссылкой — вынесены в extra_phones. IG подтверждён в этой сессии только для Hello (hellocenter.kg) и Taylor. Остались нефетченные карточки Osh (Sezam, Osh-Japan, Aspekt, Salymbekov, Imperial-дубли, Innovatsiya, Synak, Begajym, Lider-Aziya, Eduline, Bilim-Nuru, IKRO, Yunium, Unikum, Job-Agentur) — резерв для след. прохода. Бюджет: 11 WebSearch, 3 запуска fetch_extract (30 URL), 2 WebFetch."
+}

@@ -1,0 +1,15 @@
+{
+ "batch_id": "petropavlovsk_ielts",
+ "status": "done",
+ "found": 5,
+ "whales": 4,
+ "wa_verified": 3,
+ "with_lpr": 1,
+ "skipped_small": 2,
+ "top3": [
+  "Study Link",
+  "MIA Education",
+  "Language Transform"
+ ],
+ "notes": "langberry.kz недоступен (2 попытки) и каталоги kps.kz/petropavlmaps не открылись — Langberry и Language Transform записаны без телефона как подтверждённые сети. Отброшены: IG lang_kz и УМЦ ALTAVIA — масштаб и контакты не подтверждены."
+}

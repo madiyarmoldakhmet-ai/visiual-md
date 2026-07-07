@@ -1,0 +1,11 @@
+{
+  "batch_id": "kyzylorda_ielts",
+  "status": "done",
+  "found": 2,
+  "whales": 2,
+  "wa_verified": 2,
+  "with_lpr": 0,
+  "skipped_small": 6,
+  "top3": ["Study Link", "MIA Education"],
+  "notes": "Steppelens.info недоступен (2x http 523). IELTS Qyzylorda (офиц. центр IDP, 6758 IG) — телефон не верифицирован, <10k IG, строку не писал. Остальное — репетиторы и мелкие учебные центры без сайтов."
+}

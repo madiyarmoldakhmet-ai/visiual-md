@@ -1,0 +1,14 @@
+{
+ "batch_id": "shymkent_abroad",
+ "status": "done",
+ "found": 2,
+ "whales": 2,
+ "wa_verified": 1,
+ "with_lpr": 0,
+ "skipped_small": 15,
+ "top3": [
+  "Miss Akzharkyn & Ko",
+  "Study Inn"
+ ],
+ "notes": "Киты: Miss Akzharkyn (4 филиала, IDP, meta_pixel, wa.me) и Study Inn (холдинг с 2008, Cambridge Exam Centre). GSC/M&K — только Алматы/Астана. Educway, NiHao, Geneva BS, Goldman и др. без подтверждённых сайта/IG/телефона — в skipped_small. ЛПР не искали: бюджет WebSearch исчерпан."
+}

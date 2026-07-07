@@ -1,0 +1,15 @@
+{
+ "batch_id": "almaty_ielts",
+ "status": "done",
+ "found": 14,
+ "whales": 14,
+ "wa_verified": 10,
+ "with_lpr": 0,
+ "skipped_small": 2,
+ "top3": [
+  "Just Speak It",
+  "InterPress International House",
+  "Talent"
+ ],
+ "notes": "Smart School (35k учеников по serp) недоступен: http 402/404, 2 попытки. Study Link — кит без контактов (4 филиала, добить rescue-фазой). Имена ЛПР поиском не подтверждены. 10/14 строк с verified WhatsApp."
+}

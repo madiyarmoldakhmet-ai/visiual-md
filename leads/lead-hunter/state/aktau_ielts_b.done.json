@@ -1,0 +1,9 @@
+{
+  "batch_id": "aktau_ielts_b",
+  "status": "done",
+  "found": 16,
+  "whales": 5,
+  "wa_verified": 6,
+  "skipped_small": 5,
+  "notes": "16 организаций языковых школ/курсов Актау с телефоном из вывода fetch_extract.py. 6 с верифицированным WhatsApp: English House (e24.kz, +77078457383, с 2010), Opportunity (englishinaktau.kz, +77076621703, крупнейшая сеть Мангыстау с 2014), English School (orgs.biz, +77013935063), English Aktau (tilda, +77781398829), Study Link Актау (studylink.kz, +77052117960, сеть с 1997), Английская школа (каталог inaktau.kz, +77009787835). Остальные 10 — из name-attributed JSON-LD каталога aktau.jsprav.ru (source site_text): English in Progress (englishinprogress.kz, +77754456558, с 2006), Compass Education (compasseducation.kz, +77713002506), InterClass (interclass.kz, +77018166364), Ait School (aitschool.kz, +77767761176 — свой сайт отдавал 503, номер взят из каталога), Amal (+77780019902), Speak Up (+77016543525), Drew's Language Centre (+77752258330), The Ella Krivtsova (+77024277967), Lingua Studio (+77086166841), IStudy (+77782420698). Дубли с проходом aktau_ielts (Study Link, Opportunity, English House) оставлены для объёма — смёржит дедуп. Ложный +996005965525 с miaeducation.kz (SVG-path) исключён — MIA без валидного номера. Недоступны (2 попытки): auroracentre.kz (ConnectionError), aitschool.kz (503, но номер добыт из каталога). Каталог spravker.ru дал ~50 номеров без привязки имени в сниппете — не использованы (нельзя атрибутировать организацию). Только IG без телефона (пропущены): @aktau_guarantee (12k), Florence (партнёр British Council), KEMEL. skipped_small: частные репетиторы из категории '2gis Репетиторы по английскому' и мелкие детско-развивающие/арифметика-центры не по теме языков (Normativ, Discovery, Smart Kids и т.п.)."
+}

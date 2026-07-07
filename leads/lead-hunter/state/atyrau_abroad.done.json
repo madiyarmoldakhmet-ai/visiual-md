@@ -1,0 +1,15 @@
+{
+ "batch_id": "atyrau_abroad",
+ "status": "done",
+ "found": 3,
+ "whales": 2,
+ "wa_verified": 2,
+ "with_lpr": 0,
+ "skipped_small": 1,
+ "top3": [
+  "Caspian Training Group",
+  "Students International",
+  "UP2U"
+ ],
+ "notes": "3 центра: сеть CTG (Алматы+Атырау, 68998 студентов, google_tag), Students International (46 офисов вкл. Атырау, ICEF/IALC, с 1992), UP2U (локальный, wa.me подтверждён). A5 пропущен: нет сайта и бизнес-IG. IG-подписчики в SERP не найдены."
+}

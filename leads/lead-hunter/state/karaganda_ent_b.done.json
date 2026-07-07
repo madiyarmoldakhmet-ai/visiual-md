@@ -1,0 +1,15 @@
+{
+ "batch_id": "karaganda_ent_b",
+ "status": "done",
+ "found": 23,
+ "whales": 4,
+ "wa_verified": 4,
+ "with_lpr": 0,
+ "skipped_small": 6,
+ "top3": [
+  "InterPress IH Karaganda — сеть 2 филиала, аккредитованный центр IDP IELTS, wa подтверждён (ihkaraganda.kz)",
+  "Scholarships — Авторизованный British Council центр IELTS, филиал в Караганде (пр. Бухар Жырау 92/2), собственная онлайн-платформа",
+  "Бiлiм — EducationUSA Karaganda — офиц. центр EducationUSA с 1995, WhatsApp из site_text (bilimkaraganda.org)"
+ ],
+ "notes": "23 организации Караганды с телефонами из fetch_extract. 9 с собственных сайтов (MIA, OnStudy — ЕНТ, wa; Альтаир, Personal — проф.курсы; InterPress, English House, Scholarships — англ/IELTS; БILIM/EducationUSA; КарТУ подготовка к ЕНТ). 14 из каталога spravker.ru: телефон взят из вывода скрипта (site_text блоки), название сопоставлено WebFetch той же страницы этой сессии (Байт, Kajet, Dnk студия, Ardcon, Учебно-курсовой комбинат, Let's Study, Авангард, Крошкин дом/New York school, Рукавичка, Access Education, Инженер 2015, Отличный результат, Samga Academy, Via Lingua). wa_verified=4 (wa.me в HTML). Instagram-страницы (letsstudy_krg, algorithm_krg, indigo_krg, azmar_premium, dostyq.karagandy, today_education) — SPA, телефон скриптом не добыт. Эрудит и Easy ENT исключены (HQ Алматы, город не совпадает). Достык — сайт 403, без телефона. personal24 +996-номера — артефакты имён файлов картинок, исключены. skipped_small — частные репетиторы-физлица (repetitors.info, kaspi/olx/buki объявления, salexy, generic 'Репетиторство для дошкольников')."
+}

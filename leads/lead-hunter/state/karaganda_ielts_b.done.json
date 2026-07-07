@@ -1,0 +1,9 @@
+{
+ "batch_id": "karaganda_ielts_b",
+ "status": "done",
+ "found": 13,
+ "skipped_small": 0,
+ "wa_verified": 13,
+ "whales": 5,
+ "notes": "Karaganda language/English schools. 2 new orgs (SpeakEng, Perfect Study) + BeBest (KZ online, Karaganda page) + 10 re-verified this session. dream-way.kz now parked casino domain; studyon-karaganda.kz DNS dead; SYES Almaty-only -> excluded. 12 WebSearch, 2 fetch runs (18 urls), 0 WebFetch."
+}

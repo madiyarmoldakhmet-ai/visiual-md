@@ -1,0 +1,9 @@
+{
+  "batch_id": "atyrau_ielts_b",
+  "status": "done",
+  "found": 8,
+  "whales": 4,
+  "wa_verified": 5,
+  "skipped_small": 4,
+  "notes": "8 организаций с телефоном из вывода fetch_extract.py (5 с верифицированным WA: English House, Caspian Training Group, Study Link, UP2U, PREP). Новые в этом проходе: English House (e24.kz, wa +77078457383, с 2010), British speaking (каталог Ак Жайык, +77757447672, Азаттык 72), British Council и InterPress (номера организаторов IELTS в Атырау со страницы prep.kz/atyrau). Остальные (CTgroup, Study Link, UP2U, PREP) переподтверждены в этой сессии для объёма — дедуп смёржит с atyrau_ielts. Ложные +996 с uptou.kz (SVG-path) исключены. Мёртвые/недоступные сайты (2 попытки): studyon-atyrau.kz, langsols.kz, language-link.kz, eng-atyrau.kz, aptivity-аггрегатор. Каталог azh.kz даёт ~28 брендов языковых школ (American Speaking, Foreighners, Speak Easy, Education Kingdom, Felicita, ENGLISH TIME, Cambridge English, Mr.Language, One Month и др.), но телефоны там скрыты за JS — извлекаемого номера скрипт не нашёл, строки не созданы. skipped_small: частные репетиторы с repetitors.info/OLX (физлица на дому)."
+}

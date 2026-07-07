@@ -1,0 +1,11 @@
+{
+  "batch_id": "shymkent_ent",
+  "status": "done",
+  "found": 4,
+  "whales": 4,
+  "wa_verified": 1,
+  "with_lpr": 1,
+  "skipped_small": 11,
+  "top3": ["Достық білім беру орталығы", "ZIYATKER", "Daryn.online"],
+  "notes": "Dostyq (26 филиалов): сайт 403x2 — строка без телефона (кит). QAZBILIM: SSL x2, пропущен. Miras Academy — Алматы, исключён. AiPlus и MIA — HQ вне Шымкента, пропущены. Zerdeli и ZIYATKER: segment=ielts по приоритету (IELTS/SAT в их IG)."
+}

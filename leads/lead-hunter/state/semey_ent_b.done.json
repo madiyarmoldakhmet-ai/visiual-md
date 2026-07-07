@@ -1,0 +1,13 @@
+{
+ "batch_id": "semey_ent_b",
+ "city": "Семей",
+ "country": "KZ",
+ "segment": "ent",
+ "status": "done",
+ "found": 2,
+ "wa_verified": 2,
+ "whales": 0,
+ "skipped_small": 4,
+ "notes": "OnStudy и MIA имеют Semey-лендинги, телефоны из wa_link (fetch_extract). SIGMA/Erudit=Алматы (Самал-2), EDTECH филиал Жетысу-2=Алматы, EasyENT/Daryn=нац.онлайн без Semey-офиса, aiplus только Алматы/Астана телефоны — по городу Семей не подтверждены, исключены. shans-courses.kz(ШАНС)/letsedu недоступны, dostyqbilim=403, IG upgrade.semey/dostyq.semey без извлекаемого телефона. 2gis/zoon отдают 500/404.",
+ "collected_at": "2026-07-06"
+}

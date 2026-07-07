@@ -1,0 +1,19 @@
+{
+  "batch_id": "oskemen_other_b",
+  "city": "Усть-Каменогорск",
+  "country": "KZ",
+  "segment": "other",
+  "status": "done",
+  "found": 40,
+  "whales": 3,
+  "wa_verified": 1,
+  "skipped_small": 2,
+  "with_website": 8,
+  "segments": {"other": 35, "ielts": 2, "ent": 3},
+  "sources": {"catalog_yk.kz": 36, "own_site": 4},
+  "websearch_used": 8,
+  "fetch_runs": 2,
+  "webfetch_used": 1,
+  "notes": "Основной источник — каталог yk.kz (детские развивающие центры), телефоны из fetch_extract.py. Свои сайты: znatokiclub.kz, knewit.kz, uka.itstep.org, romashkino.kz. ISMA/UCMAS/IQ007 — франчайзинговые HQ, website=null. Сброшены 2 для лимита 40 (Kingdom Education, Асыл Мирас).",
+  "collected_at": "2026-07-06"
+}

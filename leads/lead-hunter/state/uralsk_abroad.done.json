@@ -1,0 +1,11 @@
+{
+  "batch_id": "uralsk_abroad",
+  "status": "done",
+  "found": 4,
+  "whales": 2,
+  "wa_verified": 0,
+  "with_lpr": 1,
+  "skipped_small": 2,
+  "top3": ["Destination", "Bolashak", "Gaudeamus"],
+  "notes": "Киты: Destination (9 адресов в 3 городах, 14247 выпускников, ЛПР Роман Лушаков), Bolashak (15+ лет, филиалы, без телефона). Damu Academy: лендинг с пикселями, телефон не извлечён, кит не подтверждён — пропущен. OnStudy — онлайн-школа Алматы. Language Link — телефон не извлечён (2GIS не парсится)."
+}

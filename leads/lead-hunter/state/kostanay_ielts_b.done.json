@@ -1,0 +1,9 @@
+{
+  "batch_id": "kostanay_ielts_b",
+  "status": "done",
+  "found": 4,
+  "whales": 1,
+  "wa_verified": 2,
+  "skipped_small": 3,
+  "notes": "4 организации с телефоном из вывода fetch_extract.py (2 с верифицированным WA: Fox English Club, Step to English). Fox English Club (orgs.biz, wa +77056260758, доп +77077225791). Work and Travel USA — офис в Костанае (opportunity.kz 301->workandtravelusa.kz/kostanay, +77762637422, сегмент abroad). Scholarships.kz — онлайн-школа английского/IELTS с 2016, собственная платформа (+77010041405). Step to English переподтверждён в этой сессии для объёма (whale: 10 школ, партнёр British Council; дедуп смёржит с kostanay_ielts). Ложные +996 (miaeducation SVG-path, workandtravel appId-GUID, scholarships SVG-path) исключены. Недоступны скрипту (2 попытки, номер не извлечён): grandluxe.kz (HTTP 402 anti-bot на всех путях), speak-kst.kz (DNS не резолвится), englishpapa.kz/kostanay.englishpapa.kz (timeout/DNS), miaeducation.kz (телефон только в JS/SVG). JS-каталоги без извлекаемого номера: 2gis.kz, kps.kz, spr.kz, kustanay.kz, zoon.kz, firmap.ru (DNS/JS-рендер). Известны, но телефон не добыт скриптом: Grand Luxe (ул. Абая 22-А, IG @grandluxe.kz ~19K), Speak English/Speak44 (ул. Козыбаева 98, IG @speak_english.kst), EnglishPapa Костанай (пр. Аль-Фараби 74), Study Excellence/Study Inn (пр. Аль-Фараби 111А), Центр MIA (miaeducation.kz) — строки не созданы, номера из скрипта нет. skipped_small: частные репетиторы IELTS с repetitors.info/OLX/kaspi-объявлений (физлица на дому)."
+}

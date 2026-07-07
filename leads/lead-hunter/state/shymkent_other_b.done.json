@@ -1,0 +1,15 @@
+{
+ "batch_id": "shymkent_other_b",
+ "city": "Шымкент",
+ "segment": "other",
+ "status": "done",
+ "found": 19,
+ "wa_verified": 2,
+ "whales": 4,
+ "skipped_small": 1,
+ "websearches": 9,
+ "fetch_runs": 2,
+ "webfetches": 4,
+ "notes": "Собрано 19 организаций Шымкента (детские развивающие/ментальная арифметика/IT для детей/робототехника/скорочтение). 4 с собственных сайтов (Smartum, ISMA, IT STEP, Отличник), 15 из каталога kursy-shymkent.kz (имя сверено WebFetch, телефон из fetch_extract). Robotek и Astrobot — Астана, пропущены. Все телефоны только из вывода fetch_extract.py.",
+ "collected_at": "2026-07-06"
+}

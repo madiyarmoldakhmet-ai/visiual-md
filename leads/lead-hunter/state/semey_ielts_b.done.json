@@ -1,0 +1,14 @@
+{
+ "batch_id": "semey_ielts_b",
+ "status": "done",
+ "found": 17,
+ "wa_verified": 3,
+ "whales": 0,
+ "skipped_small": 0,
+ "segments": {
+  "ielts": 16,
+  "ent": 1
+ },
+ "notes": "17 orgs from jsprav Semey English-schools catalog + taplink/site enrich; excluded non-language orgs (logoped, art studio, ambiguous); MIA=Almaty skipped",
+ "collected_at": "2026-07-06"
+}

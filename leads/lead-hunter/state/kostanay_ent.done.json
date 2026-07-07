@@ -1,0 +1,11 @@
+{
+  "batch_id": "kostanay_ent",
+  "status": "done",
+  "found": 3,
+  "whales": 3,
+  "wa_verified": 1,
+  "with_lpr": 1,
+  "skipped_small": 1,
+  "top3": ["NotaBene", "Dostyq Qostanay", "MIA"],
+  "notes": "NotaBene — главный кит: сеть 3 города, LMS, пиксели, с 2015, ЛПР найден. Dostyq Qostanay — сеть DOSTYQ в 5 городах, сайт dostyqbilim.kz даёт 403, телефона нет — добить отдельно. MIA — лендинг под Костанай с wa.me. STANFORD: каталог kustanay.kz недоступен. Рынок в основном одиночки."
+}

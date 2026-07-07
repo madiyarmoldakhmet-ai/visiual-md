@@ -1,0 +1,15 @@
+{
+ "batch_id": "oskemen_ielts",
+ "status": "done",
+ "found": 3,
+ "whales": 3,
+ "wa_verified": 2,
+ "with_lpr": 1,
+ "skipped_small": 7,
+ "top3": [
+  "Oxford Team — 12 филиалов УКГ/Риддер, 25k IG, директор найден",
+  "BEST — 8 филиалов, с 2005, авторизованный центр TOEFL/IELTS British Council, wa",
+  "MIA Education — 4000+ выпускников с 2019, meta/google пиксели, wa"
+ ],
+ "notes": "3 кита с подтверждёнными телефонами из скрипта. MIA — сеть с базой в Алматы, отдельный IELTS-лендинг под УКГ с пикселями. Мелочь/неподтверждённые (Q-School, Altyn Uya, English-Club, Avalon, WOW, UnikUm, Poliglotiki) пропущены. IG-подписчики BEST в сниппетах не найдены."
+}

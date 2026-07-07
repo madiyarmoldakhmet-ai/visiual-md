@@ -1,0 +1,32 @@
+{
+ "batch_id": "shymkent_ielts_b",
+ "city": "Шымкент",
+ "country": "KZ",
+ "segment": "ielts",
+ "status": "done",
+ "found": 37,
+ "wa_verified": 7,
+ "whales": 5,
+ "whale_names": [
+  "Study On",
+  "StudyLink",
+  "InterPress",
+  "Study Inn",
+  "Miss Akzharkyn & Co"
+ ],
+ "skipped_small": 1,
+ "segment_counts": {
+  "ielts": 36,
+  "other": 1
+ },
+ "source_counts": {
+  "wa_link": 7,
+  "site_text": 3,
+  "tel_link": 0,
+  "catalog": 27
+ },
+ "with_website": 10,
+ "with_instagram": 10,
+ "notes": "Website leads via fetch_extract (10). Catalog leads (27) from kursy-shymkent.kz: phone value copied from script tel_link output, name paired via same-session WebFetch catalog listing (exact phone match). Dropped Lider NS (Astana per site text), MIA (Almaty), ELC (no Shymkent phone), Poliglotiki (no phone), Akbota Dauletkyzy (individual tutor).",
+ "collected_at": "2026-07-06"
+}

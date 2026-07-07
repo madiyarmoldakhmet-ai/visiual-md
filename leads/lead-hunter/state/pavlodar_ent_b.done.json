@@ -1,0 +1,14 @@
+{
+ "batch_id": "pavlodar_ent_b",
+ "status": "done",
+ "found": 7,
+ "skipped_small": 6,
+ "whales": 1,
+ "wa_verified": 5,
+ "segments": {
+  "ent": 4,
+  "ielts": 3
+ },
+ "notes": "7 орг с телефоном из fetch_extract; каталоги без привязки имя->номер и IG-only без сайта/taplink пропущены",
+ "collected_at": "2026-07-06"
+}
