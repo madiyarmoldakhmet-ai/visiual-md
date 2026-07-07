@@ -1,0 +1,23 @@
+{
+  "name": "whatsapp-scheduler",
+  "version": "1.0.0",
+  "description": "Multi-instance WhatsApp marketing dispatch scheduler with wave-based pacing, timezone-aware working windows, and graceful shutdown.",
+  "main": "scheduler/index.js",
+  "scripts": {
+    "test": "node test_integration.js",
+    "demo": "node test_run.js",
+    "start": "node scheduler/InstanceRunner.js --config configs/instance_1.json --id 1"
+  },
+  "keywords": [
+    "whatsapp",
+    "scheduler",
+    "marketing",
+    "automation",
+    "wave-scheduler",
+    "multi-instance"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "luxon": "^3.7.2"
+  }
+}

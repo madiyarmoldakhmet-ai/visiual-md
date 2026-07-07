@@ -1,0 +1,35 @@
+[
+  {
+    "contactId": "ct_sample_001",
+    "firstName": "Alice",
+    "lastName": "Example",
+    "email": "alice.example@test.invalid",
+    "phone": "+1-000-000-0001",
+    "country": "US",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "instanceId": 1,
+    "status": "pending"
+  },
+  {
+    "contactId": "ct_sample_002",
+    "firstName": "Bob",
+    "lastName": "Sample",
+    "email": "bob.sample@test.invalid",
+    "phone": "+1-000-000-0002",
+    "country": "CA",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "instanceId": 1,
+    "status": "pending"
+  },
+  {
+    "contactId": "ct_sample_003",
+    "firstName": "Carol",
+    "lastName": "Demo",
+    "email": "carol.demo@test.invalid",
+    "phone": "+1-000-000-0003",
+    "country": "GB",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "instanceId": 1,
+    "status": "pending"
+  }
+]

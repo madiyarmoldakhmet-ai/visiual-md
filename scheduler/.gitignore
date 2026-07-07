@@ -1,0 +1,49 @@
+# ============================================================
+#  .gitignore — scheduler (WhatsApp marketing dispatch module)
+# ============================================================
+
+# ── Dependencies ────────────────────────────────────────────
+node_modules/
+package-lock.json
+yarn.lock
+
+# ── Secrets / local config with real credentials ───────────
+# Real configs containing the live Telegram bot token live as
+# *.json.local and are NEVER committed. The committed configs/
+# instance_*.json ship with empty telegram.botToken/chatId —
+# fill them locally (or via env) to enable alerts.
+configs/*.local
+configs/*.local.json
+.env
+.env.*
+!.env.example
+
+# ── Runtime data: PII (contacts / messages) ────────────────
+# The data/ folder holds source code (DataManager.js, Logger.js,
+# safe_store.js, index.js) AND runtime contact shards. Only the
+# JSON shards are gitignored — they contain names, emails, phones.
+data/messages_instance_*.json
+data/master_contacts.json
+data/status_registry.json
+data/cursor_instance_*.json
+data/summary_report.json
+data/.locks/
+data/*.tmp
+data/.*.tmp.*
+
+# Template/example data IS committed (see data/example_*.json).
+!data/example_messages_instance_1.json
+
+# ── Logs / runtime artifacts ────────────────────────────────
+logs/
+*.log
+sessions/
+
+# ── OS / editor cruft ───────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~

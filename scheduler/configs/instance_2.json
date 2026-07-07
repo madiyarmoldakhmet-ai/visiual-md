@@ -1,0 +1,35 @@
+{
+    "instanceId": 2,
+    "sandbox": {
+        "sessionDir": "./sessions/instance_2",
+        "logDir": "./logs/instance_2",
+        "isolateProcess": true
+    },
+    "telegram": {
+        "botToken": "",
+        "chatId": ""
+    },
+    "timezone": "Asia/Almaty",
+    "waveSchedule": [
+        {
+            "wave": 1,
+            "startAt": "09:00",
+            "windowMinutes": 60
+        },
+        {
+            "wave": 2,
+            "startAt": "12:30",
+            "windowMinutes": 45
+        },
+        {
+            "wave": 3,
+            "startAt": "16:00",
+            "windowMinutes": 90
+        },
+        {
+            "wave": 4,
+            "startAt": "19:30",
+            "windowMinutes": 30
+        }
+    ]
+}
